@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Dealer
+comment0.text=\n\ Write\ a\ description\ of\ class\ Dealer\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment2.params=
+comment2.target=void\ dealBoard()
+comment3.params=
+comment3.target=void\ setUI()
+comment4.params=
+comment4.target=void\ checkIfEndGame()
+comment5.params=cardsOnBoard\ cardsSelected\ selectedCardsIndex
+comment5.target=void\ checkIfTriple(java.util.ArrayList,\ Card[],\ java.util.ArrayList)
+comment6.params=cardsOnBoard\ cardsSelected\ selectedCardsIndex
+comment6.target=void\ removeAndReplaceTriple(java.util.ArrayList,\ Card[],\ java.util.ArrayList)
+comment7.params=numCardsInDeck
+comment7.target=Dealer(int)
+numComments=8
